@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/jingle/extension/source/org/jivesoftware/smackx/jingle/mediaimpl/jmf
+END
+AudioMediaSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/jingle/extension/source/org/jivesoftware/smackx/jingle/mediaimpl/jmf/AudioMediaSession.java
+END
+AudioReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/jingle/extension/source/org/jivesoftware/smackx/jingle/mediaimpl/jmf/AudioReceiver.java
+END
+JmfMediaManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/jingle/extension/source/org/jivesoftware/smackx/jingle/mediaimpl/jmf/JmfMediaManager.java
+END
+AudioChannel.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/jingle/extension/source/org/jivesoftware/smackx/jingle/mediaimpl/jmf/AudioChannel.java
+END
+AudioFormatUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/jingle/extension/source/org/jivesoftware/smackx/jingle/mediaimpl/jmf/AudioFormatUtils.java
+END

@@ -1,0 +1,251 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/source/org/jivesoftware/smackx/pubsub
+END
+OptionsExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/source/org/jivesoftware/smackx/pubsub/OptionsExtension.java
+END
+PubSubManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/source/org/jivesoftware/smackx/pubsub/PubSubManager.java
+END
+EventElementType.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/source/org/jivesoftware/smackx/pubsub/EventElementType.java
+END
+SimplePayload.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/source/org/jivesoftware/smackx/pubsub/SimplePayload.java
+END
+SubscriptionsExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/source/org/jivesoftware/smackx/pubsub/SubscriptionsExtension.java
+END
+PresenceState.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/source/org/jivesoftware/smackx/pubsub/PresenceState.java
+END
+AffiliationsExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/source/org/jivesoftware/smackx/pubsub/AffiliationsExtension.java
+END
+ChildrenAssociationPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/source/org/jivesoftware/smackx/pubsub/ChildrenAssociationPolicy.java
+END
+ConfigureForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/source/org/jivesoftware/smackx/pubsub/ConfigureForm.java
+END
+SubscribeForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/source/org/jivesoftware/smackx/pubsub/SubscribeForm.java
+END
+PayloadItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/source/org/jivesoftware/smackx/pubsub/PayloadItem.java
+END
+FormNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/source/org/jivesoftware/smackx/pubsub/FormNode.java
+END
+ItemReply.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/source/org/jivesoftware/smackx/pubsub/ItemReply.java
+END
+PubSubElementType.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/source/org/jivesoftware/smackx/pubsub/PubSubElementType.java
+END
+LeafNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/source/org/jivesoftware/smackx/pubsub/LeafNode.java
+END
+SubscribeExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/source/org/jivesoftware/smackx/pubsub/SubscribeExtension.java
+END
+ItemsExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/source/org/jivesoftware/smackx/pubsub/ItemsExtension.java
+END
+ConfigureNodeFields.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/source/org/jivesoftware/smackx/pubsub/ConfigureNodeFields.java
+END
+NodeExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/source/org/jivesoftware/smackx/pubsub/NodeExtension.java
+END
+AccessModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/source/org/jivesoftware/smackx/pubsub/AccessModel.java
+END
+Subscription.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/source/org/jivesoftware/smackx/pubsub/Subscription.java
+END
+Affiliation.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/source/org/jivesoftware/smackx/pubsub/Affiliation.java
+END
+SubscriptionEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/source/org/jivesoftware/smackx/pubsub/SubscriptionEvent.java
+END
+NodeEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/source/org/jivesoftware/smackx/pubsub/NodeEvent.java
+END
+PublishModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/source/org/jivesoftware/smackx/pubsub/PublishModel.java
+END
+NodeType.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/source/org/jivesoftware/smackx/pubsub/NodeType.java
+END
+GetItemsRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/source/org/jivesoftware/smackx/pubsub/GetItemsRequest.java
+END
+EventElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/source/org/jivesoftware/smackx/pubsub/EventElement.java
+END
+Item.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/source/org/jivesoftware/smackx/pubsub/Item.java
+END
+SubscribeOptionFields.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/source/org/jivesoftware/smackx/pubsub/SubscribeOptionFields.java
+END
+CollectionNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/source/org/jivesoftware/smackx/pubsub/CollectionNode.java
+END
+FormType.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/source/org/jivesoftware/smackx/pubsub/FormType.java
+END
+ConfigurationEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/source/org/jivesoftware/smackx/pubsub/ConfigurationEvent.java
+END
+FormNodeType.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/source/org/jivesoftware/smackx/pubsub/FormNodeType.java
+END
+EmbeddedPacketExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/source/org/jivesoftware/smackx/pubsub/EmbeddedPacketExtension.java
+END
+UnsubscribeExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/source/org/jivesoftware/smackx/pubsub/UnsubscribeExtension.java
+END
+ItemDeleteEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/source/org/jivesoftware/smackx/pubsub/ItemDeleteEvent.java
+END
+RetractItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/source/org/jivesoftware/smackx/pubsub/RetractItem.java
+END
+Node.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/source/org/jivesoftware/smackx/pubsub/Node.java
+END
+PublishItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/source/org/jivesoftware/smackx/pubsub/PublishItem.java
+END
+ItemPublishEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/source/org/jivesoftware/smackx/pubsub/ItemPublishEvent.java
+END

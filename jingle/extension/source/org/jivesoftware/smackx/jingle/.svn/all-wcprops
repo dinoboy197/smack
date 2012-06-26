@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/jingle/extension/source/org/jivesoftware/smackx/jingle
+END
+JingleSessionStatePending.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/jingle/extension/source/org/jivesoftware/smackx/jingle/JingleSessionStatePending.java
+END
+JingleManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/jingle/extension/source/org/jivesoftware/smackx/jingle/JingleManager.java
+END
+JingleNegotiator.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/jingle/extension/source/org/jivesoftware/smackx/jingle/JingleNegotiator.java
+END
+JingleNegotiatorState.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/jingle/extension/source/org/jivesoftware/smackx/jingle/JingleNegotiatorState.java
+END
+JingleSessionRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/jingle/extension/source/org/jivesoftware/smackx/jingle/JingleSessionRequest.java
+END
+ContentNegotiator.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/jingle/extension/source/org/jivesoftware/smackx/jingle/ContentNegotiator.java
+END
+JingleException.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/jingle/extension/source/org/jivesoftware/smackx/jingle/JingleException.java
+END
+JingleSessionStateActive.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/jingle/extension/source/org/jivesoftware/smackx/jingle/JingleSessionStateActive.java
+END
+JingleActionEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/jingle/extension/source/org/jivesoftware/smackx/jingle/JingleActionEnum.java
+END
+JingleSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/jingle/extension/source/org/jivesoftware/smackx/jingle/JingleSession.java
+END
+JingleSessionState.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/jingle/extension/source/org/jivesoftware/smackx/jingle/JingleSessionState.java
+END
+JingleSessionStateEnded.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/jingle/extension/source/org/jivesoftware/smackx/jingle/JingleSessionStateEnded.java
+END
+JingleSessionStateUnknown.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/jingle/extension/source/org/jivesoftware/smackx/jingle/JingleSessionStateUnknown.java
+END
+SmackLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/jingle/extension/source/org/jivesoftware/smackx/jingle/SmackLogger.java
+END

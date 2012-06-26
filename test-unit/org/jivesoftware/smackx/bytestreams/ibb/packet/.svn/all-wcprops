@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/test-unit/org/jivesoftware/smackx/bytestreams/ibb/packet
+END
+OpenTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/test-unit/org/jivesoftware/smackx/bytestreams/ibb/packet/OpenTest.java
+END
+CloseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/test-unit/org/jivesoftware/smackx/bytestreams/ibb/packet/CloseTest.java
+END
+DataTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/test-unit/org/jivesoftware/smackx/bytestreams/ibb/packet/DataTest.java
+END
+DataPacketExtensionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/test-unit/org/jivesoftware/smackx/bytestreams/ibb/packet/DataPacketExtensionTest.java
+END

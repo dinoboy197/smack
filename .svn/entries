@@ -1,0 +1,52 @@
+10
+
+dir
+13122
+http://svn.igniterealtime.org/svn/repos/smack/tags/smack_3_2_2
+http://svn.igniterealtime.org/svn/repos
+
+
+
+2012-02-05T01:56:11.804955Z
+12964
+rcollier
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+b35dd754-fafc-0310-a699-88a17e54d16e
+
+build
+dir
+
+test
+dir
+
+source
+dir
+
+sample
+dir
+
+src
+dir
+
+jingle
+dir
+
+documentation
+dir
+
+test-unit
+dir
+

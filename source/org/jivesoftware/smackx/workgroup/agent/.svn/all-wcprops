@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/source/org/jivesoftware/smackx/workgroup/agent
+END
+TranscriptSearchManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/source/org/jivesoftware/smackx/workgroup/agent/TranscriptSearchManager.java
+END
+OfferConfirmation.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/source/org/jivesoftware/smackx/workgroup/agent/OfferConfirmation.java
+END
+QueueUsersListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/source/org/jivesoftware/smackx/workgroup/agent/QueueUsersListener.java
+END
+OfferConfirmationListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/source/org/jivesoftware/smackx/workgroup/agent/OfferConfirmationListener.java
+END
+RevokedOffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/source/org/jivesoftware/smackx/workgroup/agent/RevokedOffer.java
+END
+TranscriptManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/source/org/jivesoftware/smackx/workgroup/agent/TranscriptManager.java
+END
+UserRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/source/org/jivesoftware/smackx/workgroup/agent/UserRequest.java
+END
+OfferContent.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/source/org/jivesoftware/smackx/workgroup/agent/OfferContent.java
+END
+TransferRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/source/org/jivesoftware/smackx/workgroup/agent/TransferRequest.java
+END
+InvitationRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/source/org/jivesoftware/smackx/workgroup/agent/InvitationRequest.java
+END
+AgentRoster.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/source/org/jivesoftware/smackx/workgroup/agent/AgentRoster.java
+END
+Agent.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/source/org/jivesoftware/smackx/workgroup/agent/Agent.java
+END
+Offer.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/source/org/jivesoftware/smackx/workgroup/agent/Offer.java
+END
+AgentSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/source/org/jivesoftware/smackx/workgroup/agent/AgentSession.java
+END
+AgentRosterListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/source/org/jivesoftware/smackx/workgroup/agent/AgentRosterListener.java
+END
+WorkgroupQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/source/org/jivesoftware/smackx/workgroup/agent/WorkgroupQueue.java
+END
+OfferListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/source/org/jivesoftware/smackx/workgroup/agent/OfferListener.java
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/jingle/extension/source/org/jivesoftware/smackx/jingle/mediaimpl/sshare/api
+END
+ImageTransmitter.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/jingle/extension/source/org/jivesoftware/smackx/jingle/mediaimpl/sshare/api/ImageTransmitter.java
+END
+ImageEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/jingle/extension/source/org/jivesoftware/smackx/jingle/mediaimpl/sshare/api/ImageEncoder.java
+END
+PixelUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/jingle/extension/source/org/jivesoftware/smackx/jingle/mediaimpl/sshare/api/PixelUtils.java
+END
+Quantizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/jingle/extension/source/org/jivesoftware/smackx/jingle/mediaimpl/sshare/api/Quantizer.java
+END
+DefaultEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/jingle/extension/source/org/jivesoftware/smackx/jingle/mediaimpl/sshare/api/DefaultEncoder.java
+END
+QuantizeFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/jingle/extension/source/org/jivesoftware/smackx/jingle/mediaimpl/sshare/api/QuantizeFilter.java
+END
+ImageReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/jingle/extension/source/org/jivesoftware/smackx/jingle/mediaimpl/sshare/api/ImageReceiver.java
+END
+WholeImageFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/jingle/extension/source/org/jivesoftware/smackx/jingle/mediaimpl/sshare/api/WholeImageFilter.java
+END
+AbstractBufferedImageOp.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/jingle/extension/source/org/jivesoftware/smackx/jingle/mediaimpl/sshare/api/AbstractBufferedImageOp.java
+END
+ImageDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/jingle/extension/source/org/jivesoftware/smackx/jingle/mediaimpl/sshare/api/ImageDecoder.java
+END
+OctTreeQuantizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/jingle/extension/source/org/jivesoftware/smackx/jingle/mediaimpl/sshare/api/OctTreeQuantizer.java
+END
+DefaultDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/jingle/extension/source/org/jivesoftware/smackx/jingle/mediaimpl/sshare/api/DefaultDecoder.java
+END

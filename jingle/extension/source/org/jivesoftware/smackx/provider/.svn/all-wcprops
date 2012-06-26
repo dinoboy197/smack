@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/jingle/extension/source/org/jivesoftware/smackx/provider
+END
+JingleDescriptionProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/jingle/extension/source/org/jivesoftware/smackx/provider/JingleDescriptionProvider.java
+END
+JingleContentInfoProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/jingle/extension/source/org/jivesoftware/smackx/provider/JingleContentInfoProvider.java
+END
+JingleContentProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/jingle/extension/source/org/jivesoftware/smackx/provider/JingleContentProvider.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/jingle/extension/source/org/jivesoftware/smackx/provider/package.html
+END
+JingleTransportProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/jingle/extension/source/org/jivesoftware/smackx/provider/JingleTransportProvider.java
+END
+JingleContentDescriptionProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/jingle/extension/source/org/jivesoftware/smackx/provider/JingleContentDescriptionProvider.java
+END
+JingleProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/jingle/extension/source/org/jivesoftware/smackx/provider/JingleProvider.java
+END

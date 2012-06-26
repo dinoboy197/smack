@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/source/org/jivesoftware/smackx/pubsub/provider
+END
+ItemProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/source/org/jivesoftware/smackx/pubsub/provider/ItemProvider.java
+END
+SimpleNodeProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/source/org/jivesoftware/smackx/pubsub/provider/SimpleNodeProvider.java
+END
+PubSubProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/source/org/jivesoftware/smackx/pubsub/provider/PubSubProvider.java
+END
+EventProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/source/org/jivesoftware/smackx/pubsub/provider/EventProvider.java
+END
+ItemsProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/source/org/jivesoftware/smackx/pubsub/provider/ItemsProvider.java
+END
+SubscriptionProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/source/org/jivesoftware/smackx/pubsub/provider/SubscriptionProvider.java
+END
+AffiliationProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/source/org/jivesoftware/smackx/pubsub/provider/AffiliationProvider.java
+END
+RetractEventProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/source/org/jivesoftware/smackx/pubsub/provider/RetractEventProvider.java
+END
+ConfigEventProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/source/org/jivesoftware/smackx/pubsub/provider/ConfigEventProvider.java
+END
+SubscriptionsProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/source/org/jivesoftware/smackx/pubsub/provider/SubscriptionsProvider.java
+END
+AffiliationsProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/source/org/jivesoftware/smackx/pubsub/provider/AffiliationsProvider.java
+END
+FormNodeProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/source/org/jivesoftware/smackx/pubsub/provider/FormNodeProvider.java
+END

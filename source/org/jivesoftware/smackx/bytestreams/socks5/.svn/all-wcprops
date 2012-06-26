@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/source/org/jivesoftware/smackx/bytestreams/socks5
+END
+Socks5Client.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/source/org/jivesoftware/smackx/bytestreams/socks5/Socks5Client.java
+END
+Socks5Utils.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/source/org/jivesoftware/smackx/bytestreams/socks5/Socks5Utils.java
+END
+Socks5Proxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/source/org/jivesoftware/smackx/bytestreams/socks5/Socks5Proxy.java
+END
+Socks5BytestreamSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/source/org/jivesoftware/smackx/bytestreams/socks5/Socks5BytestreamSession.java
+END
+InitiationListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/source/org/jivesoftware/smackx/bytestreams/socks5/InitiationListener.java
+END
+Socks5BytestreamListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/source/org/jivesoftware/smackx/bytestreams/socks5/Socks5BytestreamListener.java
+END
+Socks5BytestreamRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/source/org/jivesoftware/smackx/bytestreams/socks5/Socks5BytestreamRequest.java
+END
+Socks5ClientForInitiator.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/source/org/jivesoftware/smackx/bytestreams/socks5/Socks5ClientForInitiator.java
+END
+Socks5BytestreamManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/source/org/jivesoftware/smackx/bytestreams/socks5/Socks5BytestreamManager.java
+END

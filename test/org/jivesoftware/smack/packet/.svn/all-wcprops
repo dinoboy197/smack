@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/test/org/jivesoftware/smack/packet
+END
+MockPacketFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/test/org/jivesoftware/smack/packet/MockPacketFilter.java
+END
+PrivacyProviderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/test/org/jivesoftware/smack/packet/PrivacyProviderTest.java
+END
+PrivacyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/test/org/jivesoftware/smack/packet/PrivacyTest.java
+END
+MockPacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/test/org/jivesoftware/smack/packet/MockPacket.java
+END

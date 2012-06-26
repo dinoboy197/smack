@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/test/org/jivesoftware/smack
+END
+ChatTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/test/org/jivesoftware/smack/ChatTest.java
+END
+RosterInitializedBeforeConnectTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/test/org/jivesoftware/smack/RosterInitializedBeforeConnectTest.java
+END
+FloodTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/test/org/jivesoftware/smack/FloodTest.java
+END
+PresenceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/test/org/jivesoftware/smack/PresenceTest.java
+END
+MessageTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/test/org/jivesoftware/smack/MessageTest.java
+END
+RosterListenerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/test/org/jivesoftware/smack/RosterListenerTest.java
+END
+ReconnectionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/test/org/jivesoftware/smack/ReconnectionTest.java
+END
+LoginTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/test/org/jivesoftware/smack/LoginTest.java
+END
+IQTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/test/org/jivesoftware/smack/IQTest.java
+END
+PacketReaderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/test/org/jivesoftware/smack/PacketReaderTest.java
+END
+PrivacyClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/test/org/jivesoftware/smack/PrivacyClient.java
+END
+RosterSmackTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/test/org/jivesoftware/smack/RosterSmackTest.java
+END

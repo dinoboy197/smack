@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/build
+END
+ant-contrib.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/build/ant-contrib.jar
+END
+asm.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/build/asm.jar
+END
+pmd.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/build/pmd.jar
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/build/build.xml
+END
+release.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/build/release.xml
+END
+jaxen.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/build/jaxen.jar
+END
+README.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/build/README.html
+END
+junit.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/build/junit.jar
+END
+javassist-3.10.0.GA.jar
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/build/javassist-3.10.0.GA.jar
+END
+powermock-mockito-1.3.5-full.jar
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/build/powermock-mockito-1.3.5-full.jar
+END
+objenesis-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/build/objenesis-1.1.jar
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/build/build.properties
+END
+mockito-all-1.8.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/build/mockito-all-1.8.2.jar
+END

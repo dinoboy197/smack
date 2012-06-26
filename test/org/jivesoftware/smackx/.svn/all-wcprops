@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/test/org/jivesoftware/smackx
+END
+SharedGroupsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/test/org/jivesoftware/smackx/SharedGroupsTest.java
+END
+MessageEventTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/test/org/jivesoftware/smackx/MessageEventTests.java
+END
+LastActivityManagerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/test/org/jivesoftware/smackx/LastActivityManagerTest.java
+END
+RosterExchangeManagerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/test/org/jivesoftware/smackx/RosterExchangeManagerTest.java
+END
+XHTMLSupportTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/test/org/jivesoftware/smackx/XHTMLSupportTests.java
+END
+MessageEventManagerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/test/org/jivesoftware/smackx/MessageEventManagerTest.java
+END
+OfflineMessageManagerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/test/org/jivesoftware/smackx/OfflineMessageManagerTest.java
+END
+ServiceDiscoveryManagerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/test/org/jivesoftware/smackx/ServiceDiscoveryManagerTest.java
+END
+FileTransferTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/test/org/jivesoftware/smackx/FileTransferTest.java
+END
+VersionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/test/org/jivesoftware/smackx/VersionTest.java
+END
+XHTMLManagerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/test/org/jivesoftware/smackx/XHTMLManagerTest.java
+END
+MultipleRecipientManagerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/test/org/jivesoftware/smackx/MultipleRecipientManagerTest.java
+END
+VCardTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/test/org/jivesoftware/smackx/VCardTest.java
+END
+GroupChatInvitationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/test/org/jivesoftware/smackx/GroupChatInvitationTest.java
+END
+CompressionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/test/org/jivesoftware/smackx/CompressionTest.java
+END
+FormTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/test/org/jivesoftware/smackx/FormTest.java
+END
+RosterExchangeTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/test/org/jivesoftware/smackx/RosterExchangeTests.java
+END

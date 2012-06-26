@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/test-unit/org/jivesoftware/smackx/bytestreams/ibb
+END
+CloseListenerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/test-unit/org/jivesoftware/smackx/bytestreams/ibb/CloseListenerTest.java
+END
+InitiationListenerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/test-unit/org/jivesoftware/smackx/bytestreams/ibb/InitiationListenerTest.java
+END
+DataListenerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/test-unit/org/jivesoftware/smackx/bytestreams/ibb/DataListenerTest.java
+END
+InBandBytestreamSessionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/test-unit/org/jivesoftware/smackx/bytestreams/ibb/InBandBytestreamSessionTest.java
+END
+InBandBytestreamRequestTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/test-unit/org/jivesoftware/smackx/bytestreams/ibb/InBandBytestreamRequestTest.java
+END
+InBandBytestreamSessionMessageTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/test-unit/org/jivesoftware/smackx/bytestreams/ibb/InBandBytestreamSessionMessageTest.java
+END
+IBBPacketUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/test-unit/org/jivesoftware/smackx/bytestreams/ibb/IBBPacketUtils.java
+END
+InBandBytestreamManagerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/test-unit/org/jivesoftware/smackx/bytestreams/ibb/InBandBytestreamManagerTest.java
+END
+IBBTestsSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/test-unit/org/jivesoftware/smackx/bytestreams/ibb/IBBTestsSuite.java
+END

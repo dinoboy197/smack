@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/test/org/jivesoftware/smack/filter
+END
+PacketTypeFilterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/test/org/jivesoftware/smack/filter/PacketTypeFilterTest.java
+END
+NotFilterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/test/org/jivesoftware/smack/filter/NotFilterTest.java
+END
+OrFilterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/test/org/jivesoftware/smack/filter/OrFilterTest.java
+END
+ToContainsFilterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/test/org/jivesoftware/smack/filter/ToContainsFilterTest.java
+END
+AndFilterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/test/org/jivesoftware/smack/filter/AndFilterTest.java
+END
+FromContainsFilterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/test/org/jivesoftware/smack/filter/FromContainsFilterTest.java
+END
+PacketIDFilterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/test/org/jivesoftware/smack/filter/PacketIDFilterTest.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/test-unit/org/jivesoftware/smack/packet
+END
+MessageTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/test-unit/org/jivesoftware/smack/packet/MessageTest.java
+END
+PresenceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/test-unit/org/jivesoftware/smack/packet/PresenceTest.java
+END
+IQResponseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/test-unit/org/jivesoftware/smack/packet/IQResponseTest.java
+END

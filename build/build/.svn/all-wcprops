@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/build/build
+END
+versions.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/build/build/versions.txt
+END
+xmlunit.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/build/build/xmlunit.jar
+END
+biz.aQute.bnd.jar
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/build/build/biz.aQute.bnd.jar
+END
+java-xmlbuilder-0.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/build/build/java-xmlbuilder-0.3.jar
+END

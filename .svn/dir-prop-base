@@ -1,0 +1,20 @@
+K 10
+svn:ignore
+V 84
+smackx-debug.jar
+smack.jar
+smackx.jar
+target
+classes
+.classpath
+.project
+.settings
+
+
+K 13
+svn:mergeinfo
+V 106
+/smack/branches/improve_bytestreams:11815-11820
+/smack/branches/smack_3_2_0:12023
+/smack/trunk:12022-12369
+END

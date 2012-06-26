@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/jingle/extension/test/org/jivesoftware/smackx/jingle/nat
+END
+LocalhostTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/jingle/extension/test/org/jivesoftware/smackx/jingle/nat/LocalhostTest.java
+END
+TransportCandidateTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/jingle/extension/test/org/jivesoftware/smackx/jingle/nat/TransportCandidateTest.java
+END
+STUNResolverTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/jingle/extension/test/org/jivesoftware/smackx/jingle/nat/STUNResolverTest.java
+END
+TransportResolverTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/jingle/extension/test/org/jivesoftware/smackx/jingle/nat/TransportResolverTest.java
+END
+BridgedResolverTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/jingle/extension/test/org/jivesoftware/smackx/jingle/nat/BridgedResolverTest.java
+END
+BasicResolverTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/jingle/extension/test/org/jivesoftware/smackx/jingle/nat/BasicResolverTest.java
+END

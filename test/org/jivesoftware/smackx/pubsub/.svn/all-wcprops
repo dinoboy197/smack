@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/test/org/jivesoftware/smackx/pubsub
+END
+TestEvents.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/test/org/jivesoftware/smackx/pubsub/TestEvents.java
+END
+OwnerUseCases.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/test/org/jivesoftware/smackx/pubsub/OwnerUseCases.java
+END
+EntityUseCases.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/test/org/jivesoftware/smackx/pubsub/EntityUseCases.java
+END
+PublisherUseCases.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/test/org/jivesoftware/smackx/pubsub/PublisherUseCases.java
+END
+TestAPI.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/test/org/jivesoftware/smackx/pubsub/TestAPI.java
+END
+MultiUserSubscriptionUseCases.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/test/org/jivesoftware/smackx/pubsub/MultiUserSubscriptionUseCases.java
+END
+CarExtensionProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/test/org/jivesoftware/smackx/pubsub/CarExtensionProvider.java
+END
+SubscriberUseCases.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/test/org/jivesoftware/smackx/pubsub/SubscriberUseCases.java
+END
+TestMessageContent.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/test/org/jivesoftware/smackx/pubsub/TestMessageContent.java
+END
+CarExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/test/org/jivesoftware/smackx/pubsub/CarExtension.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/jingle/extension/test/org/jivesoftware/smackx/jingle
+END
+JingleMediaTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/jingle/extension/test/org/jivesoftware/smackx/jingle/JingleMediaTest.java
+END
+JingleSupportTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/jingle/extension/test/org/jivesoftware/smackx/jingle/JingleSupportTests.java
+END
+PayloadTypeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/jingle/extension/test/org/jivesoftware/smackx/jingle/PayloadTypeTest.java
+END
+JingleSessionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/jingle/extension/test/org/jivesoftware/smackx/jingle/JingleSessionTest.java
+END
+JingleManagerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/repos/!svn/ver/12964/smack/tags/smack_3_2_2/jingle/extension/test/org/jivesoftware/smackx/jingle/JingleManagerTest.java
+END
